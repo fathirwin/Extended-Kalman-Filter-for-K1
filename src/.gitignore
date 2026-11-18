@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+install/
+log/
+data/*
+booster_k1_ekf/evaluasi_ekf.py
+booster_k1_ekf/make_video.py
+booster_k1_ekf/replay_ekf.py
+booster_k1_ekf/validasi_fk.py

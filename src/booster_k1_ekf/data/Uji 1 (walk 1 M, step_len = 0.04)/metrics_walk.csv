@@ -1,0 +1,12 @@
+metrik,EKF,Odometri sendi (gyro),Odometri sendi (att. ideal)
+ATE RMSE (m),0.038933,0.052974,0.045497
+ATE max (m),0.066686,0.089049,0.076546
+Error posisi akhir (m),0.060636,0.089049,0.076372
+Drift per meter (%),nan,nan,nan
+RPE trans RMSE (m),0.006398,0.006857,0.006546
+RPE trans per meter (%),nan,nan,nan
+RPE rot RMSE (deg),0.107547,0.152957,0.000000
+Roll RMSE (deg),0.190540,1.373064,0.000000
+Pitch RMSE (deg),0.119955,0.748119,0.000000
+Yaw RMSE (deg),1.028883,1.018322,0.000000
+Yaw akhir (deg),1.787256,1.756774,0.000000
