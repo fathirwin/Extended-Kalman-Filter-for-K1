@@ -1,5 +1,17 @@
-# Object file
-*.o
+# Python Cache (Mengabaikan seluruh folder __pycache__ di semua sub-folder)
+**/__pycache__/
+*.pyc
 
-# Ada Library Information
-*.ali
+# Workspace / Build Artifacts (Folder di luar src)
+build/
+install/
+log/
+
+# Folder Data (Mengabaikan seluruh isi folder data lokal)
+data/
+
+# Skrip Evaluasi & Validasi Spesifik (Sesuai baris 7-10 Anda)
+src/booster_k1_ekf/booster_k1_ekf/evaluasi_ekf.py
+src/booster_k1_ekf/booster_k1_ekf/make_video.py
+src/booster_k1_ekf/booster_k1_ekf/replay_ekf.py
+src/booster_k1_ekf/booster_k1_ekf/validasi_fk.py
